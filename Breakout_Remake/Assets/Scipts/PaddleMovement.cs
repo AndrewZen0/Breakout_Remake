@@ -4,8 +4,28 @@ using UnityEngine;
 
 public class PaddleMovement : MonoBehaviour
 {
+    #region Singleton
+
+    private static PaddleMovement _instance;
+
+    public static PaddleMovement Instance => _instance;
+
+    private void Awake()
+    {
+        if (_instance != null)
+        {
+            Destroy(gameObject);
+        }
+        else
+        {
+            _instance = this;
+        }
+    }
+
+    #endregion
+
+
     [SerializeField] private float speed;
-    [SerializeField] private float BondariesWidth;
 
     // Update is called once per frame
     void Update()
@@ -14,6 +34,6 @@ public class PaddleMovement : MonoBehaviour
 
         transform.position += move * speed * Time.deltaTime;
 
-        transform.position = new Vector2(Mathf.Clamp(transform.position.x, -BondariesWidth, BondariesWidth), -4);
+        transform.position = new Vector2(Mathf.Clamp(transform.position.x, -7.5f, 7.7f), -4);
     }
 }
