@@ -23,6 +23,7 @@ public class BrickCollision : MonoBehaviour
         if(this.hitPoint <= 0)
         {
             OnBrickDestruction?.Invoke(this);
+            ScoreScript.scoreValue += 100;
             Destroy(this.gameObject);
         }
     }

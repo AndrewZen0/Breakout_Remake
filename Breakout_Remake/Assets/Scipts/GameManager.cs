@@ -30,6 +30,12 @@ public class GameManager : MonoBehaviour
 
     public GameObject GameOverScreen;
 
+    public GameObject VictoryScreen;
+
+    public GameObject ScoreText;
+
+    private GameObject[] Bricks;
+
     public int AvaliableLives = 3;
     public int Lives { get; set; }
     public bool IsGameStarted { get; set; }
@@ -40,12 +46,27 @@ public class GameManager : MonoBehaviour
     {
         this.Lives = this.AvaliableLives;
         BallMovement.OnBallDeath += OnBallDeath;
+        VictoryScreen.SetActive(false);
+        ScoreText.SetActive(true);
         GameOverScreen.SetActive(false);
+
+        if (Bricks == null)
+        {
+            Bricks = GameObject.FindGameObjectsWithTag("Brick");
+        }
+
+        ResumeGame();
     }
 
     private void Update()
     {
-        
+        Bricks = GameObject.FindGameObjectsWithTag("Brick");
+
+        if (Bricks.GetLength(0) < 1)
+        {
+            PauseGame();
+            VictoryScreen.SetActive(true);
+        }
     }
 
     private void OnBallDeath(BallMovement obj)
@@ -54,6 +75,9 @@ public class GameManager : MonoBehaviour
 
         if(Lives < 1)
         {
+            PauseGame();
+            ScoreScript.scoreValue = 0;
+            ScoreText.SetActive(false);
             GameOverScreen.SetActive(true);
         }
         else
@@ -64,11 +88,22 @@ public class GameManager : MonoBehaviour
 
     public void RestartGame()
     {
-        SceneManager.LoadScene("Game");
+        ScoreScript.scoreValue = 0;
+        SceneManager.LoadScene("Game");        
     }
 
     private void OnDisable()
     {
         BallMovement.OnBallDeath -= OnBallDeath;
-    }   
+    }
+
+    void PauseGame()
+    {
+        Time.timeScale = 0;
+    }
+
+    void ResumeGame()
+    {
+        Time.timeScale = 1;
+    }
 }
