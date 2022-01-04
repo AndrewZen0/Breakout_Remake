@@ -46,11 +46,15 @@ public class BallsManager : MonoBehaviour
             Vector3 ballPosition = new Vector3(paddlePosition.x, paddlePosition.y + 0.27f, 0);
             initialBall.transform.position = ballPosition;
 
-            if(Input.GetKeyDown(KeyCode.Space))
+            if(Input.touchCount > 0)
             {
-                initialBallRb.isKinematic = false;
-                initialBallRb.AddForce(new Vector2(0, initialBallSpeed));
-                GameManager.Instance.IsGameStarted = true;
+                Touch touch = Input.GetTouch(0);
+                if(touch.phase == TouchPhase.Began)
+                {
+                    initialBallRb.isKinematic = false;
+                    initialBallRb.AddForce(new Vector2(0, initialBallSpeed));
+                    GameManager.Instance.IsGameStarted = true;
+                }
             }
         }
     }

@@ -26,14 +26,20 @@ public class PaddleMovement : MonoBehaviour
 
 
     [SerializeField] private float speed;
+    private Vector3 touchPosition;
+    private Vector3 direction;
 
     // Update is called once per frame
     void Update()
     {
-        var move = new Vector3(Input.GetAxis("Horizontal"), 0, 0);
-
-        transform.position += move * speed * Time.deltaTime;
-
+        if(Input.touchCount > 0)
+        {
+            Touch touch = Input.GetTouch(0);
+            touchPosition = Camera.main.ScreenToWorldPoint(touch.position);
+            touchPosition.z = 0f;
+            direction = (touchPosition - transform.position);
+            transform.position += direction * speed * Time.deltaTime;
+        }
         transform.position = new Vector2(Mathf.Clamp(transform.position.x, -7.5f, 7.7f), -4);
     }
 
