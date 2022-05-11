@@ -15,11 +15,11 @@ C:/Users/Andrea/Desktop/Repository/Unity/Breakout Remake/Breakout_Remake
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-49562
+52845
 Successfully changed project path to: C:/Users/Andrea/Desktop/Repository/Unity/Breakout Remake/Breakout_Remake
 C:/Users/Andrea/Desktop/Repository/Unity/Breakout Remake/Breakout_Remake
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 41.29 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 40.38 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.12f1 (b3b2c6512326)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
@@ -35,457 +35,81 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56596
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56788
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001979 seconds.
+Registered in 0.001890 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 36.92 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 42.96 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.189 seconds
+- Completed reload, in  2.892 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004040 seconds.
+Registered in 0.004368 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-000001C5EF8EBE80 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Assembly-CSharp.dll
+Symbol file data-000001D3F1FF2010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5EFB65630 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+Symbol file data-000001D3ED3F0AF0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5EEF63920 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file data-000001D3F28EC030 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F3FB1E40 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file data-000001D3F26A0670 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\PsdPlugin.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5A03850 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\PsdPlugin.dll
+Symbol file data-000001D3EDA7C270 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F43C97B0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file data-000001D3F3B5D620 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5A03850 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file data-000001D3ED627010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F4217A30 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file data-000001D3F28EC030 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F53FDCE0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+Symbol file data-000001D3F2B25020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F404F270 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+Symbol file data-000001D3EDA7C270 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F43C97B0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+Symbol file data-000001D3EDEBE030 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5EF653D80 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file data-000001D3ED4E6B20 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5EF635620 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file data-000001D3F215B020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F49E1010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file data-000001D3F21C3A30 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEngine.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F4408640 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file data-000001D3ED70F9D0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F4BFECC0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+Symbol file data-000001D3F237D020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F4C12020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+Symbol file data-000001D3EDAF4660 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F427C240 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+Symbol file data-000001D3F2E24620 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F4418650 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-000001D3F354ABB0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5EA22E150 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file data-000001D3ED781790 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5EFF38010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file data-000001D3EE096030 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F4228E40 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F404F270 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file data-000001D3F21E3A40 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 34.97 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 37.63 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.927 seconds
+- Completed reload, in  0.978 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2088 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 93.1 MB.
-System memory in use after: 93.0 MB.
-
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2522.
-Total: 2.102200 ms (FindLiveObjects: 0.233800 ms CreateObjectMapping: 0.048300 ms MarkObjects: 1.668200 ms  DeleteObjects: 0.150900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  path: Assets/Scipts/BrickCollision.cs
-  artifactKey: Guid(c595865660b615e48be14f815d890951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scipts/BrickCollision.cs using Guid(c595865660b615e48be14f815d890951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47dfd5859da50b02aa23f4f36465f227') in 0.029812 seconds 
-  Import took 0.032648 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.347842 seconds.
-  path: Assets/Scipts/BallsManager.cs
-  artifactKey: Guid(eedf08e8796c8dc4b924a3a5bf21da75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scipts/BallsManager.cs using Guid(eedf08e8796c8dc4b924a3a5bf21da75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3c6c89fd85dfd1f45063458e34de25c') in 0.002381 seconds 
-  Import took 0.005411 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.023758 seconds.
-  path: Assets/Scipts/BallsManager.cs
-  artifactKey: Guid(eedf08e8796c8dc4b924a3a5bf21da75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scipts/BallsManager.cs using Guid(eedf08e8796c8dc4b924a3a5bf21da75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3c6c89fd85dfd1f45063458e34de25c') in 0.001805 seconds 
-  Import took 0.004828 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 59.436692 seconds.
-  path: Assets/Scipts/GameManager.cs
-  artifactKey: Guid(cd8950fb67d206a4b9d673f47c2cd083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scipts/GameManager.cs using Guid(cd8950fb67d206a4b9d673f47c2cd083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dbc2c52e0d1406f3f8e61dbb7750ef2') in 0.002199 seconds 
-  Import took 0.005670 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000627 seconds.
-  path: Assets/Scipts/GameManager.cs
-  artifactKey: Guid(cd8950fb67d206a4b9d673f47c2cd083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scipts/GameManager.cs using Guid(cd8950fb67d206a4b9d673f47c2cd083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dbc2c52e0d1406f3f8e61dbb7750ef2') in 0.002612 seconds 
-  Import took 0.005780 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 93.261715 seconds.
-  path: Assets/Scipts/BrickManager.cs
-  artifactKey: Guid(56a720fb64c49da4caba2bb8ea2506ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scipts/BrickManager.cs using Guid(56a720fb64c49da4caba2bb8ea2506ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9d00e6103987486bc13340b8d7c042c') in 0.002511 seconds 
-  Import took 0.006054 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005083 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000001C5F46AB020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F85CA770 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5EFA0C070 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F81260B0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\PsdPlugin.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F43C97B0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F81260B0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5CC1020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5EFA198D0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5EFEB8010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F43C97B0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5724010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5CD2430 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5EF7E9010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F7F9E020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F891D8D0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F7F9E020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F582E510 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F81260B0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5EFD4D2A0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F727E620 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F46D8A30 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5EFEB8010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.926 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2087 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 93.1 MB.
-System memory in use after: 93.1 MB.
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2527.
-Total: 2.375000 ms (FindLiveObjects: 0.255000 ms CreateObjectMapping: 0.048700 ms MarkObjects: 1.950500 ms  DeleteObjects: 0.119000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004201 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000001C5F46AB020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F85CBDF0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F8924D00 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5B15010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\PsdPlugin.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F52C0050 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F85AE010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5BE7010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F8924D00 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F8DF63F0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F4970220 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5E65020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5413CB0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F4755020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F8F30010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F7DF2EE0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5CB8E40 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F7282630 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F85AE010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C447DD5A30 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F4A1A220 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F4B04A20 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5EF60C030 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.892 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2087 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 93.1 MB.
-System memory in use after: 93.1 MB.
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2531.
-Total: 2.197300 ms (FindLiveObjects: 0.228200 ms CreateObjectMapping: 0.051100 ms MarkObjects: 1.791900 ms  DeleteObjects: 0.125000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 262.505843 seconds.
-  path: Assets/Scipts/BrickManager.cs
-  artifactKey: Guid(56a720fb64c49da4caba2bb8ea2506ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scipts/BrickManager.cs using Guid(56a720fb64c49da4caba2bb8ea2506ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86544d57b995ddbbf4fcdc7d528a2c8d') in 0.004625 seconds 
-  Import took 0.007200 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003965 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000001C5F86AFE30 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F85CAEF0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C619F1AC90 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F8EB6620 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\PsdPlugin.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F52C0050 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5EF777010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5BE7010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C619F14060 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F8EDE020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F727E5B0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F7B39010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F4CE56B0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5CE5020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F8F30010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F7DE6280 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5CB8E40 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5CB5020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5EF777010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C447DD5670 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F4A1A220 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F9030020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C619F34030 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.870 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2087 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 93.2 MB.
-System memory in use after: 93.1 MB.
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2535.
-Total: 2.279000 ms (FindLiveObjects: 0.240300 ms CreateObjectMapping: 0.049200 ms MarkObjects: 1.856400 ms  DeleteObjects: 0.131400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 266.577685 seconds.
-  path: Assets/Scipts/BrickManager.cs
-  artifactKey: Guid(56a720fb64c49da4caba2bb8ea2506ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scipts/BrickManager.cs using Guid(56a720fb64c49da4caba2bb8ea2506ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '587f832f5f425327e5e6b84d1089cfaa') in 0.004853 seconds 
-  Import took 0.007926 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 130.533453 seconds.
-  path: Assets/Scipts/LevelData.cs
-  artifactKey: Guid(643806907801b9d4784fea00039e5e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scipts/LevelData.cs using Guid(643806907801b9d4784fea00039e5e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '604445f7d5447998471221506447e617') in 0.002375 seconds 
-  Import took 0.005828 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003872 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000001C5F4532020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F85CA770 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F4032880 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F8EB6620 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\PsdPlugin.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F52C0050 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F855E010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5BE7010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F403B8C0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C61A2D7010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F4A18220 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F7B39010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F57298E0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5EF6FE430 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F8F30010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5EFC9A070 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5CB8E40 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5CB5020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F855E010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F8130A70 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F4A18220 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F3E25020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5EFCCE010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.019 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2088 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2091 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 93.2 MB.
 System memory in use after: 93.2 MB.
 
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2540.
-Total: 2.806100 ms (FindLiveObjects: 0.282800 ms CreateObjectMapping: 0.052200 ms MarkObjects: 2.322700 ms  DeleteObjects: 0.146300 ms)
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2525.
+Total: 2.284100 ms (FindLiveObjects: 0.249100 ms CreateObjectMapping: 0.048500 ms MarkObjects: 1.854700 ms  DeleteObjects: 0.130200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -495,165 +119,87 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004158 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000001C5F4532020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F85CD830 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F4755070 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F8EB6620 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\PsdPlugin.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C61A7D4010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F855E010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5BE7010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F475E0B0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F771C020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C61A7D4010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F7B39010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5726CA0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5CE5020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F8F30010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F8B860C0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5CB8E40 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F405A020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F855E010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F606D590 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C61A7D4010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C61A57D060 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F7579030 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.875 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2088 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 93.2 MB.
-System memory in use after: 93.2 MB.
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2544.
-Total: 2.242500 ms (FindLiveObjects: 0.213600 ms CreateObjectMapping: 0.047000 ms MarkObjects: 1.863700 ms  DeleteObjects: 0.117200 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 142.965802 seconds.
-  path: Assets/Scipts/LevelData.cs
-  artifactKey: Guid(643806907801b9d4784fea00039e5e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scipts/LevelData.cs using Guid(643806907801b9d4784fea00039e5e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a6d1b9bb753d8812632ba3335d86768') in 0.004798 seconds 
-  Import took 0.007532 seconds .
+  path: Assets/Scipts/Bricks.cs
+  artifactKey: Guid(c001c64f7df7e654eb34cc25e7053823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scipts/Bricks.cs using Guid(c001c64f7df7e654eb34cc25e7053823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94c7d41c12ae2318819dad6849715a23') in 0.040141 seconds 
+  Import took 0.043497 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.102881 seconds.
-  path: Assets/NewLevel.asset
-  artifactKey: Guid(c9b4c61bf214db54891dd78a49c7a1bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NewLevel.asset using Guid(c9b4c61bf214db54891dd78a49c7a1bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f04a149352f011a17203b677ce9f4378') in 0.013516 seconds 
-  Import took 0.016545 seconds .
+  Time since last request: 18.119881 seconds.
+  path: Assets/Scipts/Bricks.cs
+  artifactKey: Guid(c001c64f7df7e654eb34cc25e7053823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scipts/Bricks.cs using Guid(c001c64f7df7e654eb34cc25e7053823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab3cbf6a00350c619404acdd898f8310') in 0.001955 seconds 
+  Import took 0.005079 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003944 seconds.
+Registered in 0.004066 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-000001C5F4532020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+Symbol file data-000001D3F6902020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F85CD830 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file data-000001D3F68636F0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F7CEC4E0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file data-000001D3EDF47070 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F8EB6620 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\PsdPlugin.dll
+Symbol file data-000001D3F2B5D450 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\PsdPlugin.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C61A579050 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file data-000001D3EDA7C270 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F7334420 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file data-000001D3F21E3A40 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F8801010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file data-000001D3EDA51010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F7B73080 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+Symbol file data-000001D3F54750B0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5EFE3A020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+Symbol file data-000001D3EE064010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C61A579050 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+Symbol file data-000001D3EDA7C270 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F7E6A010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file data-000001D3F35AB420 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F8A74670 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file data-000001D3EDA88860 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F4939010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file data-000001D3F237D020 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5CB8E40 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file data-000001D3F39B1010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\UnityEngine.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C61A64B8D0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+Symbol file data-000001D3F21CA0B0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F8C8EF80 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+Symbol file data-000001D3F62E6030 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F4420660 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+Symbol file data-000001D3ED64E220 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F7334420 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-000001D3F21E3A40 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F606E0D0 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file data-000001D3F354A250 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5F5C55030 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file data-000001D3F6F92060 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C5EFB9D410 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file data-000001D3EDF47070 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C61A2D7010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file data-000001D3EE064010 doesn't match image C:\Users\Andrea\Desktop\Repository\Unity\Breakout Remake\Breakout_Remake\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.935 seconds
+- Completed reload, in  0.915 seconds
 Platform modules already initialized, skipping
 Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
 Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2088 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2089 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 93.2 MB.
-System memory in use after: 93.2 MB.
+System memory in use after: 93.1 MB.
 
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2548.
-Total: 2.650900 ms (FindLiveObjects: 0.230300 ms CreateObjectMapping: 0.044600 ms MarkObjects: 2.249200 ms  DeleteObjects: 0.125200 ms)
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2529.
+Total: 3.123100 ms (FindLiveObjects: 0.472800 ms CreateObjectMapping: 0.065600 ms MarkObjects: 2.468600 ms  DeleteObjects: 0.113100 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 

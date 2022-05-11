@@ -6,5 +6,5 @@ using UnityEngine;
 
 public class LevelData : ScriptableObject
 {
-    public int[] blocks;
+    public int blocks;
 }
